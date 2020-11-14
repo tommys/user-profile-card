@@ -228,7 +228,7 @@ main .profile-card {
   display: flex;
   justify-content: space-around;
   border-top: 1px solid var(--dark-gray);
-  padding: 1rem;
+  padding: 1.5rem;
 }
 
 .user-stats .stats-num {
@@ -238,7 +238,7 @@ main .profile-card {
 }
 
 .user-stats .stats-name {
-  font-size: 14px;
+  font-size: 12px;
   padding-top: 0.3rem;
 }
 
